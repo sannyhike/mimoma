@@ -1,0 +1,2 @@
+# mimoma
+a meme website
